@@ -7,12 +7,6 @@
       "location": "BROOKLYN"
     },
     {
-      "id": 2,
-      "description": "2019 Toyota Tacoma grill",
-      "image": "./images/toyota-grill.jpg",
-      "location": "Williamsburg"
-    },
-    {
       "id": 3,
       "description": "Free Braun 3735 Electric Toothbrush charger",
       "image": "./images/toothbrush-charger.jpg",
@@ -25,22 +19,16 @@
       "location": "Prospect Heights"
     },
     {
-      "id": 5,
-      "description": "wood",
-      "image": "./images/wood.jpg",
-      "location": "Greenpoint"
-    },
-    {
       "id": 6,
       "description": "Beautiful couch",
       "image": "./images/couch.jpg",
       "location": "Bay Ridge"
     },
     {
-      "id": 7,
-      "description": "Treadmill Parts For Free",
-      "image": "./images/treadmill.jpg",
-      "location": "East Flatbush"
+      "description": "Microfiber Couch",
+      "image": "https://raymourflanigan.scene7.com/is/image/RaymourandFlanigan/FW_ASHL_200466729_3000?wid=1600&fit=fit%2C1",
+      "location": "Rockaway Beach",
+      "id": 8
     }
   ]
 }
